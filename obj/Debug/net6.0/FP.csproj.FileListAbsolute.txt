@@ -1,0 +1,15 @@
+C:\Users\Умка\Desktop\Сатанизм\C#\FP\obj\Debug\net6.0\FP.csproj.AssemblyReference.cache
+C:\Users\Умка\Desktop\Сатанизм\C#\FP\obj\Debug\net6.0\FP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Умка\Desktop\Сатанизм\C#\FP\obj\Debug\net6.0\FP.AssemblyInfoInputs.cache
+C:\Users\Умка\Desktop\Сатанизм\C#\FP\obj\Debug\net6.0\FP.AssemblyInfo.cs
+C:\Users\Умка\Desktop\Сатанизм\C#\FP\obj\Debug\net6.0\FP.csproj.CoreCompileInputs.cache
+C:\Users\Умка\Desktop\Сатанизм\C#\FP\bin\Debug\net6.0\FP.exe
+C:\Users\Умка\Desktop\Сатанизм\C#\FP\bin\Debug\net6.0\FP.deps.json
+C:\Users\Умка\Desktop\Сатанизм\C#\FP\bin\Debug\net6.0\FP.runtimeconfig.json
+C:\Users\Умка\Desktop\Сатанизм\C#\FP\bin\Debug\net6.0\FP.dll
+C:\Users\Умка\Desktop\Сатанизм\C#\FP\bin\Debug\net6.0\FP.pdb
+C:\Users\Умка\Desktop\Сатанизм\C#\FP\obj\Debug\net6.0\FP.dll
+C:\Users\Умка\Desktop\Сатанизм\C#\FP\obj\Debug\net6.0\refint\FP.dll
+C:\Users\Умка\Desktop\Сатанизм\C#\FP\obj\Debug\net6.0\FP.pdb
+C:\Users\Умка\Desktop\Сатанизм\C#\FP\obj\Debug\net6.0\FP.genruntimeconfig.cache
+C:\Users\Умка\Desktop\Сатанизм\C#\FP\obj\Debug\net6.0\ref\FP.dll
